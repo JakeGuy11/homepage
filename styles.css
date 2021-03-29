@@ -1,5 +1,5 @@
 html, body {
-  height: 98%;
+  height: 95%;
   width: 100%;
 }
 
@@ -15,8 +15,7 @@ html, body {
 
 .imageHolder{
     display: inline-block;
-    width: 100px;
-    height: 100px;
+    padding-top: 5px;
     margin: 5px;
 }
 
