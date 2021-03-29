@@ -1,10 +1,21 @@
+.container {
+  width: 100%;
+}
+
+.bg {
+  background-image: url("res/image5.jpg");
+  background-size: 100%;
+  width: 99%;
+  height: 100%;
+}
+
 .slider {
   position: relative;
   display: block;
   width: 60px;
   height: 30px;
   margin-bottom: 15px;
-  margin-left: auto;
+  right: -5px;
 }
 
 .slider input{
