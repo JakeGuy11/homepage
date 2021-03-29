@@ -1,5 +1,33 @@
+html, body {
+  height: 98%;
+  width: 100%;
+}
+
 .container {
   width: 100%;
+}
+
+.imageContainer{
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+
+.imageHolder{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  width: 99%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  text-align: center;
 }
 
 .bg {
