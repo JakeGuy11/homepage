@@ -7,12 +7,6 @@ html, body {
   width: 100%;
 }
 
-.imageContainer{
-    text-align: center;
-    height: 100%;
-    width: 100%;
-}
-
 .imageHolder{
     display: inline-block;
     padding-top: 5px;
